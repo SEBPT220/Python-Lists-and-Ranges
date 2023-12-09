@@ -59,4 +59,4 @@ create an excerise.py file in your lab folder, check your answers by running it 
 
 ## Solution
 
-A solution can be found [here](https://repl.it/@jim_clark/Python-Containers-and-Ranges-Lab).
+A solution can be found [here](https://replit.com/@jim_clark/Python-Containers-Lab-Example-Solutions#exercises.py).
