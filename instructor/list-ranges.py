@@ -56,3 +56,6 @@ for color in colors:
 print('***************************************************')
 
 # when you need to know the INDEX AND ITEM, use the for in enumareate(list)
+
+for idx, color in enumerate(colors):
+  print(idx, color)
